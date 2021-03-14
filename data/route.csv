@@ -1,0 +1,215 @@
+,Child,Parent
+0,Ancol,Dunia Fantasi
+1,Ancol,Jakarta International Expo
+2,Ancol,Mall Mangga Dua
+3,Bellagio Boutique Mall,KidZania Jakarta
+4,Bellagio Boutique Mall,Kota Kasablanka
+5,Bellagio Boutique Mall,Plaza Semanggi
+6,Cawang Uki,Halim Perdana Kusuma
+7,Cawang Uki,Politeknik Statistika STIS
+8,Cawang Uki,RSIA SamMarie Basra
+9,Cawang Uki,Stasiun Cawang
+10,Cawang Uki,Taman Honda
+11,Cilandak Town Square,Jakarta Kidney Center
+12,Cilandak Town Square,Museum Layang-layang Indonesia
+13,Cilandak Town Square,One Belpark
+14,Cilandak Town Square,Pejaten Village
+15,Cilandak Town Square,Ragunan Zoo
+16,Dunia Fantasi,Ancol
+17,Dunia Fantasi,Mall Mangga Dua
+18,Dunia Fantasi,Plaza Orion
+19,Dunia Fantasi,Taman Fatahillah
+20,Galeri Nasional,Monas
+21,Galeri Nasional,RSPAD Gatot Subroto
+22,Galeri Nasional,Stasiun Gambir
+23,Galeri Nasional,Stasiun Pasar Senen
+24,Gandaria City,Kampung Main Cipulir
+25,Gandaria City,Pasaraya Blok M
+26,Gandaria City,Pondok Indah Mall 1
+27,Gandaria City,Pondok Indah Waterpark
+28,Gandaria City,Rumah Sakit Gandaria
+29,Gandaria City,Taman Ayodya
+30,Gelanggang Olahraga Bung Karno,KidZania Jakarta
+31,Gelanggang Olahraga Bung Karno,Plaza Semanggi
+32,Gelanggang Olahraga Bung Karno,Plaza Senayan
+33,Gelanggang Olahraga Bung Karno,Senayan City
+34,Halim Perdana Kusuma,Cawang Uki
+35,Halim Perdana Kusuma,Monumen Pancasila Sakti
+36,Halim Perdana Kusuma,RSIA SamMarie Basra
+37,Istana Negara,Masjid Istiqlal
+38,Istana Negara,Monas
+39,Istana Negara,Museum Nasional
+40,Istana Negara,Museum Taman Prasasti
+41,Istana Negara,Universitas Trisakti
+42,Jakarta International Expo,Ancol
+43,Jakarta International Expo,Katedral Jakarta
+44,Jakarta International Expo,Mall Mangga Dua
+45,Jakarta Kidney Center,Cilandak Town Square
+46,Jakarta Kidney Center,Lippo Mall Kemang
+47,Jakarta Kidney Center,Pejaten Village
+48,Jakarta Kidney Center,Ragunan Zoo
+49,Kampung Main Cipulir,Gandaria City
+50,Kampung Main Cipulir,Rumah Sakit Gandaria
+51,Kampung Main Cipulir,Taman Ayodya
+52,Katedral Jakarta,Jakarta International Expo
+53,Katedral Jakarta,Masjid Istiqlal
+54,Katedral Jakarta,Monas
+55,Katedral Jakarta,Stasiun Gambir
+56,KidZania Jakarta,Bellagio Boutique Mall
+57,KidZania Jakarta,Gelanggang Olahraga Bung Karno
+58,KidZania Jakarta,Plaza Semanggi
+59,KidZania Jakarta,Plaza Senayan
+60,KidZania Jakarta,Senayan City
+61,Kota Kasablanka,Bellagio Boutique Mall
+62,Kota Kasablanka,Stasiun Tebet
+63,Kota Kasablanka,Taman Honda
+64,Lippo Mall Kemang,Jakarta Kidney Center
+65,Lippo Mall Kemang,Pasaraya Blok M
+66,Lippo Mall Kemang,Pejaten Village
+67,Lippo Mall Kemang,The Dharmawangsa Square
+68,Mall Mangga Dua,Ancol
+69,Mall Mangga Dua,Dunia Fantasi
+70,Mall Mangga Dua,Jakarta International Expo
+71,Mall Mangga Dua,Plaza Orion
+72,Mall Mangga Dua,Taman Fatahillah
+73,Masjid Istiqlal,Istana Negara
+74,Masjid Istiqlal,Katedral Jakarta
+75,Masjid Istiqlal,Monas
+76,Masjid Istiqlal,Stasiun Gambir
+77,Monas,Galeri Nasional
+78,Monas,Istana Negara
+79,Monas,Katedral Jakarta
+80,Monas,Masjid Istiqlal
+81,Monas,Museum Nasional
+82,Monas,Museum Taman Prasasti
+83,Monas,Stasiun Gambir
+84,Monumen Pancasila Sakti,Halim Perdana Kusuma
+85,Monumen Pancasila Sakti,Taman Mini Indonesia Indah
+86,Monumen Selamat Datang,Planetarium Jakarta
+87,Monumen Selamat Datang,Plaza Semanggi
+88,Monumen Selamat Datang,Taman Ismail Marzuki
+89,Monumen Selamat Datang,Taman Menteng
+90,Museum Layang-layang Indonesia,Cilandak Town Square
+91,Museum Layang-layang Indonesia,One Belpark
+92,Museum Layang-layang Indonesia,Ragunan Zoo
+93,Museum Nasional,Istana Negara
+94,Museum Nasional,Monas
+95,Museum Nasional,Museum Taman Prasasti
+96,Museum Nasional,Universitas Trisakti
+97,Museum Sumpah Pemuda,Planetarium Jakarta
+98,Museum Sumpah Pemuda,RSPAD Gatot Subroto
+99,Museum Sumpah Pemuda,Stasiun Pasar Senen
+100,Museum Sumpah Pemuda,Taman Ismail Marzuki
+101,Museum Taman Prasasti,Istana Negara
+102,Museum Taman Prasasti,Monas
+103,Museum Taman Prasasti,Museum Nasional
+104,Museum Taman Prasasti,Universitas Trisakti
+105,One Belpark,Cilandak Town Square
+106,One Belpark,Museum Layang-layang Indonesia
+107,One Belpark,Ragunan Zoo
+108,Pasaraya Blok M,Gandaria City
+109,Pasaraya Blok M,Lippo Mall Kemang
+110,Pasaraya Blok M,Rumah Sakit Gandaria
+111,Pasaraya Blok M,Senayan City
+112,Pasaraya Blok M,Taman Ayodya
+113,Pasaraya Blok M,The Dharmawangsa Square
+114,Pejaten Village,Cilandak Town Square
+115,Pejaten Village,Jakarta Kidney Center
+116,Pejaten Village,Lippo Mall Kemang
+117,Planetarium Jakarta,Monumen Selamat Datang
+118,Planetarium Jakarta,Museum Sumpah Pemuda
+119,Planetarium Jakarta,Taman Ismail Marzuki
+120,Planetarium Jakarta,Taman Menteng
+121,Plaza Orion,Dunia Fantasi
+122,Plaza Orion,Mall Mangga Dua
+123,Plaza Orion,Taman Fatahillah
+124,Plaza Semanggi,Bellagio Boutique Mall
+125,Plaza Semanggi,Gelanggang Olahraga Bung Karno
+126,Plaza Semanggi,KidZania Jakarta
+127,Plaza Semanggi,Monumen Selamat Datang
+128,Plaza Semanggi,Taman Menteng
+129,Plaza Senayan,Gelanggang Olahraga Bung Karno
+130,Plaza Senayan,KidZania Jakarta
+131,Plaza Senayan,Senayan City
+132,Politeknik Statistika STIS,Cawang Uki
+133,Politeknik Statistika STIS,RSIA SamMarie Basra
+134,Politeknik Statistika STIS,Stasiun Cawang
+135,Politeknik Statistika STIS,Stasiun Tebet
+136,Politeknik Statistika STIS,Taman Honda
+137,Pondok Indah Mall 1,Gandaria City
+138,Pondok Indah Mall 1,Pondok Indah Waterpark
+139,Pondok Indah Mall 1,The Dharmawangsa Square
+140,Pondok Indah Waterpark,Gandaria City
+141,Pondok Indah Waterpark,Pondok Indah Mall 1
+142,Pondok Indah Waterpark,The Dharmawangsa Square
+143,RSIA SamMarie Basra,Cawang Uki
+144,RSIA SamMarie Basra,Halim Perdana Kusuma
+145,RSIA SamMarie Basra,Politeknik Statistika STIS
+146,RSPAD Gatot Subroto,Galeri Nasional
+147,RSPAD Gatot Subroto,Museum Sumpah Pemuda
+148,RSPAD Gatot Subroto,Stasiun Gambir
+149,RSPAD Gatot Subroto,Stasiun Pasar Senen
+150,Ragunan Zoo,Cilandak Town Square
+151,Ragunan Zoo,Jakarta Kidney Center
+152,Ragunan Zoo,Museum Layang-layang Indonesia
+153,Ragunan Zoo,One Belpark
+154,Ragunan Zoo,Taman Mini Indonesia Indah
+155,Ragunan Zoo,Universitas Indonesia
+156,Rumah Sakit Gandaria,Gandaria City
+157,Rumah Sakit Gandaria,Kampung Main Cipulir
+158,Rumah Sakit Gandaria,Pasaraya Blok M
+159,Rumah Sakit Gandaria,Taman Ayodya
+160,Senayan City,Gelanggang Olahraga Bung Karno
+161,Senayan City,KidZania Jakarta
+162,Senayan City,Pasaraya Blok M
+163,Senayan City,Plaza Senayan
+164,Stasiun Cawang,Cawang Uki
+165,Stasiun Cawang,Politeknik Statistika STIS
+166,Stasiun Cawang,Stasiun Tebet
+167,Stasiun Cawang,Taman Honda
+168,Stasiun Gambir,Galeri Nasional
+169,Stasiun Gambir,Katedral Jakarta
+170,Stasiun Gambir,Masjid Istiqlal
+171,Stasiun Gambir,Monas
+172,Stasiun Gambir,RSPAD Gatot Subroto
+173,Stasiun Pasar Senen,Galeri Nasional
+174,Stasiun Pasar Senen,Museum Sumpah Pemuda
+175,Stasiun Pasar Senen,RSPAD Gatot Subroto
+176,Stasiun Tebet,Kota Kasablanka
+177,Stasiun Tebet,Politeknik Statistika STIS
+178,Stasiun Tebet,Stasiun Cawang
+179,Stasiun Tebet,Taman Honda
+180,Taman Ayodya,Gandaria City
+181,Taman Ayodya,Kampung Main Cipulir
+182,Taman Ayodya,Pasaraya Blok M
+183,Taman Ayodya,Rumah Sakit Gandaria
+184,Taman Ayodya,The Dharmawangsa Square
+185,Taman Fatahillah,Dunia Fantasi
+186,Taman Fatahillah,Mall Mangga Dua
+187,Taman Fatahillah,Plaza Orion
+188,Taman Honda,Cawang Uki
+189,Taman Honda,Kota Kasablanka
+190,Taman Honda,Politeknik Statistika STIS
+191,Taman Honda,Stasiun Cawang
+192,Taman Honda,Stasiun Tebet
+193,Taman Ismail Marzuki,Monumen Selamat Datang
+194,Taman Ismail Marzuki,Museum Sumpah Pemuda
+195,Taman Ismail Marzuki,Planetarium Jakarta
+196,Taman Ismail Marzuki,Taman Menteng
+197,Taman Menteng,Monumen Selamat Datang
+198,Taman Menteng,Planetarium Jakarta
+199,Taman Menteng,Plaza Semanggi
+200,Taman Menteng,Taman Ismail Marzuki
+201,Taman Mini Indonesia Indah,Monumen Pancasila Sakti
+202,Taman Mini Indonesia Indah,Ragunan Zoo
+203,Taman Mini Indonesia Indah,Universitas Indonesia
+204,The Dharmawangsa Square,Lippo Mall Kemang
+205,The Dharmawangsa Square,Pasaraya Blok M
+206,The Dharmawangsa Square,Pondok Indah Mall 1
+207,The Dharmawangsa Square,Pondok Indah Waterpark
+208,The Dharmawangsa Square,Taman Ayodya
+209,Universitas Indonesia,Ragunan Zoo
+210,Universitas Indonesia,Taman Mini Indonesia Indah
+211,Universitas Trisakti,Istana Negara
+212,Universitas Trisakti,Museum Nasional
+213,Universitas Trisakti,Museum Taman Prasasti

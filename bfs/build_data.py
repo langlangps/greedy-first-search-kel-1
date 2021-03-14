@@ -1,4 +1,5 @@
-from geopy.distance import geodesic
+import pandas as pd
+# from geopy.distance import geodesic
 
 def get_heuristics_data(finish):
   data_with_coordinate = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/best first search project/data/data_with_coordinate.csv')
@@ -14,5 +15,5 @@ def get_heuristics_data(finish):
   return route.drop('Unnamed: 0', axis = 1)
   
 
-data_with_coordinate = pd.read_csv('../data/data_with_coordinate.csv)
-routes = pd.read_csv('../data/route.csv)
+data_with_coordinate = pd.read_csv('./data/data_with_coordinate.csv')
+routes = pd.read_csv('./data/route.csv')
